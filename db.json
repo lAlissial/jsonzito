@@ -2,19 +2,19 @@
   "posts": [
     {
       "id": 1,
-      "image":"https://github.com/lAlissial/jsonzito/blob/main/img-01.jpg",
+      "image":"https://github.com/lAlissial/jsonzito/blob/main/img-01.jpg?raw=true",
       "oque": "Louger Bar",
       "descri": "LOREM IPSUM"
     },
     {
       "id": 2,
-      "image":"https://github.com/lAlissial/jsonzito/blob/main/img-02.jpg",
+      "image":"https://github.com/lAlissial/jsonzito/blob/main/img-02.jpg?raw=true",
       "oque": "Restaurantes",
       "descri": "LOREM IPSUM"
     },
     {
       "id": 3,
-      "image":"https://github.com/lAlissial/jsonzito/blob/main/img-03.jpg",
+      "image":"https://github.com/lAlissial/jsonzito/blob/main/img-03.jpg?raw=true",
       "oque": "Bem-estar &amp; SPA",
       "descri": "LOREM IPSUM"
     }
